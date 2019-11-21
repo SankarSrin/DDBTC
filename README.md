@@ -8,11 +8,11 @@ https://imageprocessing-sankarsrin.blogspot.com/2017/11/dot-diffusion-digital-ha
 REFERENCE IMAGE
 
 Knuth DDBTC
-[!Image1](https://github.com/SankarSrin/DDBTC/blob/master/DDBTC_Knuth.png)
+![Image1](https://github.com/SankarSrin/DDBTC/blob/master/DDBTC_Knuth.png)
 
 
 MESE VAIDHYANATHAN 8x8 DDBTC
-[!Image2](https://github.com/SankarSrin/DDBTC/blob/master/DDBTC_MV8.png)
+![Image2](https://github.com/SankarSrin/DDBTC/blob/master/DDBTC_MV8.png)
 
 MESE VAIDHYANATHAN 16x16 DDBTC
-[!Image3](https://github.com/SankarSrin/DDBTC/blob/master/DDBTC_MV16.png)
+![Image3](https://github.com/SankarSrin/DDBTC/blob/master/DDBTC_MV16.png)
